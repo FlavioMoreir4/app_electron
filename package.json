@@ -1,0 +1,17 @@
+{
+  "name": "MyApp",
+  "version": "0.1.0",
+  "main": "main.js",
+  "description": "Simples Exemplo de Electron",
+  "author": "Flavio Moreira",
+  "license":"MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "dependencies":{
+    
+  }
+}
